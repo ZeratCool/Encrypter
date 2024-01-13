@@ -13,9 +13,10 @@ Z-Crypto is a Python-based encryption tool designed to secure your sensitive fil
 
 ## Usage
 
-1. Run the Z-Crypto script in your terminal.
-2. Choose whether to encrypt or decrypt a file.
-3. Follow the prompts to provide the necessary information, including the file path and encryption key.
+1.  pip install cryptography
+2. Run the Z-Crypto script in your terminal.    
+3. Choose whether to encrypt or decrypt a file.
+4. Follow the prompts to provide the necessary information, including the file path and encryption key.
 
 ## Security Considerations
 
